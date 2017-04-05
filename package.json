@@ -1,0 +1,27 @@
+{
+  "name": "node-command-line-option",
+  "version": "1.0.0",
+  "description": "pass options to your script via command line",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/checkoutmukesh/node-command-line-options.git"
+  },
+  "keywords": [
+    "command",
+    "line",
+    "args",
+    "command",
+    "line",
+    "options"
+  ],
+  "author": "Mukesh Chandra <mukeshcodework@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/checkoutmukesh/node-command-line-options/issues"
+  },
+  "homepage": "https://github.com/checkoutmukesh/node-command-line-options#readme"
+}
